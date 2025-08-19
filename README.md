@@ -1,6 +1,6 @@
 # Heart Disease Prediction
 
-This project predicts the presence of heart disease using the **UCI Heart Disease Dataset**. It includes **data preprocessing, exploratory data analysis, feature selection, and classification modeling** using Logistic Regression and K-Nearest Neighbors (KNN).  
+This project analyzes the presence of heart disease using the **UCI Heart Disease Dataset**. It includes **data preprocessing, exploratory data analysis, feature selection, and classification modeling** using Logistic Regression and K-Nearest Neighbors (KNN).  
 
 ## Highlights
 
